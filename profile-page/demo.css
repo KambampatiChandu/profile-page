@@ -112,5 +112,17 @@
 
 #post1{
     height:200px;
+    border-width: 10px;
 
 }
+#post2{
+    height:200px;
+
+}
+#post3{
+    height:200px;
+
+}
+#nopost{
+    font-size: 20px;
+   
